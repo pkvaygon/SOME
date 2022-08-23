@@ -1,0 +1,25 @@
+@media(max-width: 460px) {
+    .logo_block {
+        display: block;
+    }
+
+
+    .logo_block h1 {
+        font-size: 18px;
+        margin: 0;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .question_block {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .part2-title {
+        font-size: 24px;
+    }
+
+}
